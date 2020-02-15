@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://emericdossantos.github.io/</title>
+  <link>https://emericdossantos.github.io/</link>
+
+<item>
+     <link>https://emericdossantos.github.io/</link>
+     <title>Emeric Dos Santos / Level Design Porfolio</title>
+     <description>Online Level Design portfolio of Emeric Dos Santos.  You can check here all the projects made by the Level Designer Emeric Dos Santos.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://emericdossantos.github.io/index.html</link>
+     <title>Emeric Dos Santos / Level Design Porfolio</title>
+     <description>Online Level Design portfolio of Emeric Dos Santos.  You can check here all the projects made by the Level Designer Emeric Dos Santos.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://emericdossantos.github.io/about.html</link>
+     <title>Emeric Dos Santos / Level Design Porfolio / About</title>
+     <description>Online Level Design portfolio of Emeric Dos Santos.  Description of the Level Designer Emeric Dos Santos.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://emericdossantos.github.io/contact.html</link>
+     <title>Emeric Dos Santos / Level Design Porfolio / Contact</title>
+     <description>Online Level Design portfolio of Emeric Dos Santos.  Contact of the Level Designer Emeric Dos Santos.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://emericdossantos.github.io/resources/Platform_Game_Prototype_1.4/index.html</link>
+     <title>Platform Game Prototype 1.4</title>
+     <description>Platform Game Prototype 1.4</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://emericdossantos.github.io/resources/Perfect_Angle_Browser_Version/index.html</link>
+     <title>Perfect Angle</title>
+     <description>Perfect Angle</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://emericdossantos.github.io/resources/Deficience_Web_V3/index.html</link>
+     <title>Serious Game</title>
+     <description>Serious Game</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://emericdossantos.github.io/resources/CarTest/index.html</link>
+     <title>carTest</title>
+     <description>carTest</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://emericdossantos.github.io/resources/game/index.html</link>
+     <title>game</title>
+     <description>game</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
