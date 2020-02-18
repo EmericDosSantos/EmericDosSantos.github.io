@@ -249,10 +249,7 @@ li a{
 	border-bottom: thick solid #004865;
 	cursor: pointer;
 }
-#img18:hover, #img17:hover, #img16:hover, #img15:hover, #img1:hover, #img2:hover, #img3:hover, #img4:hover, #img5:hover, #img6:hover, #img7:hover, #img8:hover, #img9:hover, #img10:hover, #img11:hover, #img12:hover, #img13:hover, #img14:hover{
-	box-shadow: 0px 0px 50px #ffc000 inset;
-	border-bottom: thick solid #004865;
-}
+
 #img18{
 	background-image: url("../img/games/PureMahjong/PureMahjong8.jpg");
 }
@@ -265,48 +262,54 @@ li a{
 #img15{
 	background-image: url("../img/games/3Pigs/3pigs2.jpg");
 }
-#img1{
+#img14{
 	background-image: url("../img/games/Koda/Koda01.jpg");
 }
-#img2{
+#img13{
 	background-image: url("../img/games/Antivirus/AntiVirus2.jpg");
 }
-#img3{
+#img12{
 	background-image: url("../img/games/UWJ/UWJ01.jpg");
 }
-#img4{
+#img11{
 	background-image: url("../img/games/Trackmania/track11.jpg");
 }
-#img5{
+#img10{
 	background-image: url("../img/games/minecraft/1.jpg");
 }
-#img6{
+#img9{
 	background-image: url("../img/games/sleepingPit/2.jpg");
 }
-#img7{
+#img8{
 	background-image: url("../img/games/TomAtomRescu/platformGame5.jpg");
 }
-#img8{
+#img7{
 	background-image: url("../img/games/Unity/Unity3.jpg");
 }
-#img9{
+#img6{
 	background-image: url("../img/3D/M1.jpg");
 }
-#img10{
+#img5{
 	background-image: url("../img/games/WorldBuilding/terrain1.jpg");
 }
-#img11{
+#img4{
 	background-image: url("../img/games/PerfectAngle/pa1.jpg");
 }
-#img12{
+#img3{
 	background-image: url("../img/games/deficienceNew.jpg");
 }
-#img13{
+#img2{
 	background-image: url("../img/games/Game2.jpg");
 }
-#img14{
+#img1{
 	background-image: url("../img/games/Game1.jpg");
 }
+
+#img18:hover, #img17:hover, #img16:hover, #img15:hover, #img14:hover, #img13:hover, #img12:hover, #img11:hover, #img10:hover, #img9:hover, #img8:hover, #img7:hover, #img6:hover, #img5:hover, #img4:hover, #img3:hover, #img2:hover #img1:hover{
+	box-shadow: 0px 0px 50px #ffc000 inset;
+	border-bottom: thick solid #004865;
+}
+
 .titleArticle{
 	padding-left: 2%;
 	padding-right: 3%;
@@ -344,7 +347,7 @@ li a{
 	box-shadow: inset 0 0 0 3000px rgba(0,47,66,0.97);
 	border: 4px solid white;
 }
-.mySlides18, .mySlides17, .mySlides16, .mySlides15, .mySlides, .mySlides2, .mySlides3, .mySlides4, .mySlides5, .mySlides6, .mySlides7, .mySlides8, .mySlides9, .mySlides10, .mySlides11, .mySlides12, .mySlides13, .mySlides14{
+.mySlides18, .mySlides17, .mySlides16, .mySlides15, .mySlides14, .mySlides13, .mySlides12, .mySlides11, .mySlides10, .mySlides9, .mySlides8, .mySlides7, .mySlides6, .mySlides5, .mySlides4, .mySlides3, .mySlides2, .mySlides1{
 	display:none;
 	width: 100%;
 	border: 4px solid black;
@@ -416,7 +419,7 @@ li a{
 	-webkit-filter: invert(40%) grayscale(100%) brightness(40%) sepia(100%) hue-rotate(-50deg) saturate(400%) contrast(2) drop-shadow(1px 3px 3px black);
     filter: grayscale(100%) brightness(40%) sepia(100%) hue-rotate(-50deg) saturate(600%) contrast(0.8) drop-shadow(1px 3px 3px black);
 }
-#article18, #article17, #article16, #article15, #article1, #article2, #article3, #article4, #article5, #article6, #article7, #article8, #article9, #article10, #article11, #article12, #article13, #article14{
+#article18, #article17, #article16, #article15, #article14, #article13, #article12, #article11, #article10, #article9, #article8, #article7, #article6, #article5, #article4, #article3, #article2, #article1{
 	display: none;
 }
 .titleContent{
