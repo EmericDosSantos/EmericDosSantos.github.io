@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="fr">
 	<head>
-		<title>Emeric Dos Santos - Level Design Porfolio / About</title>
+		<title>Emeric Dos Santos - Level Design Porfolio / Contact</title>
 		<meta charset="UTF-8" />
-		<meta name="description" content="Online Level Design portfolio of Emeric Dos Santos.  Description of the Level Designer Emeric Dos Santos."/>
+		<meta name="description" content="Online Level Design portfolio of Emeric Dos Santos.  Contact of the Level Designer Emeric Dos Santos."/>
 		<meta name="keyword" content="emeric dos santos, level design, level designer, porfolio, video game, video games, prototype, 3D, terrain, 2D, project" />
 		<meta name="robots" content="index,follow"/>
 		<meta name="google-site-verification" content="sA73D2b5jRTdCgJsbwdbxm5vG9sUE9Hwk6i2iOC32fA"/>
@@ -58,16 +58,16 @@
 			<img id="color_button" src="img/color.gif" alt="color" onclick="themeColor()">
 			<p id="headerText2">Level Designer</p>
 			<p id="headerText3">PORTFOLIO</br> 2020</p>
-			<div id="headerText4"><a href="#"><img class="lang" src="img/united-kingdom.png" alt="EN-lang"></a> / <a href="àpropos-fr.html"><img class="lang" src="img/france.png" alt="FR-lang" href="àpropos-fr.html"></a></div>
+			<div id="headerText4"><a href="contact.html"><img class="lang" src="img/united-kingdom.png" alt="EN-lang"></a> / <a href="#"><img class="lang" src="img/france.png" alt="FR-lang"></a></div>
 		</header>
 		<div id="scroll_to_top" onclick="smoothscroll()">
 			<img id="upArrow" src="img/up.gif" alt="upArrow">
 		</div>
 		<div id="headerMenu">
 			<ul>
-			  <li><a href="projects.html">Projects</a></li>
-			  <li><a href="about.html" id="activePage">About</a></li>
-			  <li><a href="contact.html">Contact</a></li>
+			  <li><a href="projets-fr.html">Projets</a></li>
+			  <li><a href="àpropos-fr.html">À propos</a></li>
+			  <li><a href="contact-fr.html" id="activePage">Contact</a></li>
 			</ul>
 		</div>
 		<div id="main">
@@ -76,65 +76,25 @@
 					<div class="info-form">
 						<p class="text-article">
 							<br>
-							<img id="profilImg" style="width: 30%; border:5px solid #004865; border-radius: 50%; box-shadow: 5px 5px 5px black; margin-right: 5%;" align="left" src="img/profil.webp">
 							<br>
-							Bienvenue sur mon portfolio, je m’appelle Emeric Dos Santos j’ai 25 ans et je suis Level Designer.
+							Nom complet : Emeric Ferreira Dos Santos
+							<br>
+							<br>
+							Numéro de téléphone : (+33) 06 83 60 24 81
 							</br>
 							</br>
-							Je suis passionné par le monde du jeu vidéo depuis petit. La manière dont ils ont conçu m'a toujours intéressée.
-							C’est donc pour ça que je me suis lancé dans des études qu'y mont amené à travailler dans ce milieu. Pour moi, 
-							le jeu vidéo est le média par excellence, qui regroupe une multitude de domaines qui font du jeu vidéo une expérience 
-							à part entière et surtout c’est un média qui se renouvelle sans cesse pour toujours surprendre les joueurs.
+							E-mail : emeric_31@hotmai.fr
 							</br>
 							</br>
-							</br>
-							J’ai un profil un peu touche-à-tout, j’aime bien comprendre le fonctionnement des choses, ce qui me permet de facilement 
-							travailler en équipes. Même au niveau de mes goûts en terme de jeux vidéo je suis assez ouvert, j’ai donc joué à un peu de tous 
-							les styles de jeux (RPG, Arcade, Action, Aventure, Course, Combat, FPS, etc.). Le jeu vidéo de base m'intéresse peut importe le genre.
-							</br>
-							</br>
-							</br>
-							Vous pourrez voir dans mon portfolio les divers projets sur les quels j'ai pu travailler et les compétences que j’ai acquises au cours de mes études et projets personnels et professionnel.
-							</br>
-							</br>
-							Je travaille actuellement en tant que level designer freelance pour divers qui clients qui me contact a travers une platforme de freelancers.
-							Mais je suis ouvert a travailler au sein de studios si l'occasion se présenterai et que le projet m'intéresserrai.
+							Address : 57 bis AV de L'isle - BAT A1, APPT 10 - 31800 Saint-Gaudens - France
 							</br>
 							</br>
 						</p>
-					</div>
-					<div class="cv" id="cv" onclick="article1()">
-					CV
-					</div>
-					<br>
-					<br>
-				</div>
-			</div>
-			<div id="article1">
-				<div class="detail">
-					<div class="detailContent">
-						<img class="exit_button" src="img/exit.gif" alt="exit" onclick="article1()">
-						<embed src="content/Emeric_Dos_Santos_CV_2019_EN.pdf#zoom=184&toolbar=0&navpanes=0&scrollbar=0" width= "100%" height= "1940">
-					</div>
+					</div>	
 				</div>
 			</div>
 		</div>
 		<script>
-			function article1() {
-			var y = document.getElementById("article");
-			var x = document.getElementById("article1");
-			if (x.style.display === "block") {
-				x.style.display = "none";
-				y.style.display = "block";
-				document.getElementById("cv").scrollIntoView();
-			}
-			else {
-				x.style.display = "block";
-				y.style.display = "none";
-				document.getElementById("article1").scrollIntoView();
-				}
-			}
-			
 			var theme = Math.floor(Math.random() * 4);
 			var classNode;
 			window.onload = themeColor;
@@ -171,7 +131,6 @@
 					
 					document.getElementById("main").style = "border-top: thick solid #004865";
 					document.getElementById("article").style = "background: #00384e";
-					document.getElementById("profilImg").style = "width: 30%; border:5px solid #ffc000; border-radius: 50%; box-shadow: 5px 5px 5px black; margin-right: 5%";
 					
 					for (classNode = 0; classNode < document.getElementsByClassName("info").length; classNode++){
 						document.getElementsByClassName("info")[classNode].style = "background: #00384e";
@@ -218,7 +177,6 @@
 					
 					document.getElementById("main").style = "border-top: thick solid #2b2b2b";
 					document.getElementById("article").style = "background: #1b1b1b";
-					document.getElementById("profilImg").style = "width: 30%; border:5px solid white; border-radius: 50%; box-shadow: 5px 5px 5px black; margin-right: 5%";
 					
 					for (classNode = 0; classNode < document.getElementsByClassName("info").length; classNode++){
 						document.getElementsByClassName("info")[classNode].style = "background: #1b1b1b";
@@ -264,7 +222,6 @@
 					
 					document.getElementById("main").style = "border-top: thick solid white";
 					document.getElementById("article").style = "background: #cccccc";
-					document.getElementById("profilImg").style = "width: 30%; border:5px solid black; border-radius: 50%; box-shadow: 5px 5px 5px black; margin-right: 5%";
 
 					for (classNode = 0; classNode < document.getElementsByClassName("info").length; classNode++){
 						document.getElementsByClassName("info")[classNode].style = "background: white";
@@ -311,7 +268,6 @@
 
 					document.getElementById("main").style = "border-top: thick solid red";
 					document.getElementById("article").style = "background: #a00000";
-					document.getElementById("profilImg").style = "width: 30%; border:5px solid white; border-radius: 50%; box-shadow: 5px 5px 5px black; margin-right: 5%";
 					
 					for (classNode = 0; classNode < document.getElementsByClassName("info").length; classNode++){
 						document.getElementsByClassName("info")[classNode].style = "background: #a00000";
