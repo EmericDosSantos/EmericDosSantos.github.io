@@ -76,6 +76,46 @@
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
+<item>
+     <link>https://emericdossantos.github.io/%C3%A0propos-fr.html</link>
+     <title>Emeric Dos Santos - Level Design Porfolio / About</title>
+     <description>Online Level Design portfolio of Emeric Dos Santos.  Description of the Level Designer Emeric Dos Santos.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://emericdossantos.github.io/projects.html</link>
+     <title>Emeric Dos Santos - Level Design Porfolio / Projects</title>
+     <description>Online Level Design portfolio of Emeric Dos Santos.  You can check here all the projects made by the Level Designer Emeric Dos Santos.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://emericdossantos.github.io/contact-fr.html</link>
+     <title>Emeric Dos Santos - Level Design Porfolio / Contact</title>
+     <description>Online Level Design portfolio of Emeric Dos Santos.  Contact of the Level Designer Emeric Dos Santos.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://emericdossantos.github.io/projets-fr.html</link>
+     <title>Emeric Dos Santos - Level Design Porfolio / Projets</title>
+     <description>Online Level Design portfolio of Emeric Dos Santos.  You can check here all the projects made by the Level Designer Emeric Dos Santos.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://emericdossantos.github.io/apropos-fr.html</link>
+     <title>Emeric Dos Santos - Level Design Porfolio / About</title>
+     <description>Online Level Design portfolio of Emeric Dos Santos.  Description of the Level Designer Emeric Dos Santos.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
 </channel>
 </rss>
   
