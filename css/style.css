@@ -12,6 +12,29 @@ header{
 	color: #ffc000;
 	border-bottom: thick solid #002f42;
 }
+.titleH1{
+	margin: .2vw;
+	font-size: 100%;
+}
+.titleH2{
+	font-size: 2.2vw;
+	width: 60%;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	padding-bottom: 20px;
+	font-family: Arial;
+	font-weight: bold;
+	color: #ffc000;
+	padding-left: 5%;
+	border-bottom: 4px solid white;
+	text-shadow: 1px 1px 2px black;
+}
+.titleH3{
+	margin: 0;
+	text-align: justify;
+	font-family: Arial;
+	color: white;
+}
 #headerPortfolio{
 	width: auto;
 	position: absolute;
@@ -189,7 +212,7 @@ li a{
 		width: 6%;
 	}
     #article{
-		width: 70vw;
+		width: 70.8vw;
 	}
 	.detailContent{
 		width: 70vw;
@@ -354,6 +377,7 @@ li a{
 }
 .w3-content {
 	max-width: 100%;
+	margin-bottom: 25px;
 	padding-left: 7.7%;
 	padding-right: 8.4%;
 	background: black;
@@ -478,7 +502,9 @@ li a{
 }
 .video_medium {
 	width: 100%;
-	margin: auto;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	border: solid 10px black;
 }
 .videoWrapper {
 	position: relative;
