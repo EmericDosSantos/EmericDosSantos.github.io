@@ -273,6 +273,9 @@ li a{
 	cursor: pointer;
 }
 
+#img20{
+	background-image: url("../img/games/ParkourGame/9.webp");
+}
 #img19{
 	background-image: url("../img/games/ParkourGame/9.webp");
 }
@@ -331,7 +334,7 @@ li a{
 	background-image: url("../img/games/Game1.webp");
 }
 
-#img19:hover, #img18:hover, #img17:hover, #img16:hover, #img15:hover, #img14:hover, #img13:hover, #img12:hover, #img11:hover, #img10:hover, #img9:hover, #img8:hover, #img7:hover, #img6:hover, #img5:hover, #img4:hover, #img3:hover, #img2:hover #img1:hover{
+#img20:hover, #img19:hover, #img18:hover, #img17:hover, #img16:hover, #img15:hover, #img14:hover, #img13:hover, #img12:hover, #img11:hover, #img10:hover, #img9:hover, #img8:hover, #img7:hover, #img6:hover, #img5:hover, #img4:hover, #img3:hover, #img2:hover #img1:hover{
 	box-shadow: 0px 0px 50px #ffc000 inset;
 	border-bottom: thick solid #004865;
 }
@@ -373,7 +376,7 @@ li a{
 	box-shadow: inset 0 0 0 3000px rgba(0,47,66,0.97);
 	border: 4px solid white;
 }
-.mySlides19, .mySlides18, .mySlides17, .mySlides16, .mySlides15, .mySlides14, .mySlides13, .mySlides12, .mySlides11, .mySlides10, .mySlides9, .mySlides8, .mySlides7, .mySlides6, .mySlides5, .mySlides4, .mySlides3, .mySlides2, .mySlides1{
+.mySlides20, .mySlides19, .mySlides18, .mySlides17, .mySlides16, .mySlides15, .mySlides14, .mySlides13, .mySlides12, .mySlides11, .mySlides10, .mySlides9, .mySlides8, .mySlides7, .mySlides6, .mySlides5, .mySlides4, .mySlides3, .mySlides2, .mySlides1{
 	display:none;
 	width: 100%;
 	border: 4px solid black;
