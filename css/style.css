@@ -382,7 +382,7 @@ li a{
 	box-shadow: inset 0 0 0 3000px rgba(0,47,66,0.97);
 	border: 4px solid white;
 }
-.mySlides21, .mySlides20, .mySlides19, .mySlides18, .mySlides17, .mySlides16, .mySlides15, .mySlides14, .mySlides13, .mySlides12, .mySlides11, .mySlides10, .mySlides9, .mySlides8, .mySlides7, .mySlides6, .mySlides5, .mySlides4, .mySlides3, .mySlides2, .mySlides1{
+.mySlides22, .mySlides21, .mySlides20, .mySlides19, .mySlides18, .mySlides17, .mySlides16, .mySlides15, .mySlides14, .mySlides13, .mySlides12, .mySlides11, .mySlides10, .mySlides9, .mySlides8, .mySlides7, .mySlides6, .mySlides5, .mySlides4, .mySlides3, .mySlides2, .mySlides1{
 	display:none;
 	width: 100%;
 	border: 4px solid black;
