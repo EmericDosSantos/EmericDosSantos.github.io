@@ -273,6 +273,9 @@ li a{
 	cursor: pointer;
 }
 
+#img22{
+	background-image: url("../img/games/TurnBaseBattle/Menu.webp");
+}
 #img21{
 	background-image: url("../img/games/GravityDefy/1.webp");
 }
@@ -337,7 +340,7 @@ li a{
 	background-image: url("../img/games/Game1.webp");
 }
 
-#img21:hover, #img20:hover, #img19:hover, #img18:hover, #img17:hover, #img16:hover, #img15:hover, #img14:hover, #img13:hover, #img12:hover, #img11:hover, #img10:hover, #img9:hover, #img8:hover, #img7:hover, #img6:hover, #img5:hover, #img4:hover, #img3:hover, #img2:hover #img1:hover{
+#img22:hover, #img21:hover, #img20:hover, #img19:hover, #img18:hover, #img17:hover, #img16:hover, #img15:hover, #img14:hover, #img13:hover, #img12:hover, #img11:hover, #img10:hover, #img9:hover, #img8:hover, #img7:hover, #img6:hover, #img5:hover, #img4:hover, #img3:hover, #img2:hover #img1:hover{
 	box-shadow: 0px 0px 50px #ffc000 inset;
 	border-bottom: thick solid #004865;
 }
@@ -451,7 +454,7 @@ li a{
 	-webkit-filter: invert(40%) grayscale(100%) brightness(40%) sepia(100%) hue-rotate(-50deg) saturate(400%) contrast(2) drop-shadow(1px 3px 3px black);
     filter: grayscale(100%) brightness(40%) sepia(100%) hue-rotate(-50deg) saturate(600%) contrast(0.8) drop-shadow(1px 3px 3px black);
 }
-#article21, #article20, #article19, #article18, #article17, #article16, #article15, #article14, #article13, #article12, #article11, #article10, #article9, #article8, #article7, #article6, #article5, #article4, #article3, #article2, #article1{
+#article22, #article21, #article20, #article19, #article18, #article17, #article16, #article15, #article14, #article13, #article12, #article11, #article10, #article9, #article8, #article7, #article6, #article5, #article4, #article3, #article2, #article1{
 	display: none;
 }
 .titleContent{
